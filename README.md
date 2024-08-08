@@ -1,6 +1,6 @@
 # Medicine Prescriber
 
-This project is a Java-based application developed as part of the labs from Lab 8 to Lab 12. The application allows users to prescribe medicines and is designed to demonstrate various advanced Java programming concepts such as GUI programming with Swing, networking, database connectivity using JDBC, JavaFX, and web development with Servlets and JSP.
+This project is a Java-based application developed as part of my Academics. The application allows users to prescribe medicines and is designed to demonstrate various advanced Java programming concepts such as GUI programming with Swing, networking, database connectivity using JDBC, JavaFX, and web development with Servlets and JSP.
 
 ## Table of Contents
 
