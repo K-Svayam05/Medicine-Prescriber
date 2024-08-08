@@ -1,33 +1,39 @@
-Medicine Prescriber
+# Medicine Prescriber
+
 This project is a Java-based application developed as part of the labs from Lab 8 to Lab 12. The application allows users to prescribe medicines and is designed to demonstrate various advanced Java programming concepts such as GUI programming with Swing, networking, database connectivity using JDBC, JavaFX, and web development with Servlets and JSP.
 
-Table of Contents
-Features
-Technologies Used
-Installation
-Usage
-Lab Tasks Overview
-License
-Features
-Graphical User Interface (GUI) for prescribing medicines.
-Database connectivity for storing and retrieving prescription data.
-Basic networking functionality for client-server communication.
-JavaFX-based UI components.
-Web development using Servlets and JSP for dynamic content rendering.
-Technologies Used
-Java: Core language for implementing the application.
-Swing: For creating graphical user interfaces.
-JDBC: For connecting to and interacting with the database.
-JavaFX: For creating modern UI applications.
-Servlets & JSP: For web development and handling HTTP requests.
-MySQL: Database for storing prescription data.
-Installation
-Clone the repository:
+## Table of Contents
 
-bash
-Copy code
-git clone https://github.com/your-username/Medicine-Prescriber.git
-cd Medicine-Prescriber
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Lab Tasks Overview](#lab-tasks-overview)
+- [License](#license)
+
+## Features
+
+- **Graphical User Interface (GUI)** for prescribing medicines.
+- **Database connectivity** for storing and retrieving prescription data.
+- **Basic networking functionality** for client-server communication.
+- **JavaFX-based UI components** for modern UI applications.
+- **Web development using Servlets and JSP** for dynamic content rendering.
+
+## Technologies Used
+
+- **Java**: Core language for implementing the application.
+- **Swing**: For creating graphical user interfaces.
+- **JDBC**: For connecting to and interacting with the database.
+- **JavaFX**: For creating modern UI applications.
+- **Servlets & JSP**: For web development and handling HTTP requests.
+- **MySQL**: Database for storing prescription data.
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/Medicine-Prescriber.git
+   cd Medicine-Prescriber
 Build the project using Maven:
 
 bash
