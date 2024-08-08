@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "msedge",
+        "request": "launch",
+        "name": "Open index.jsp",
+        "file": "c:\\Users\\Admin\\OneDrive\\Documents\\VSCode Practice\\Class Practice\\JAVA\\lab12\\medicine_prescriber\\src\\main\\webapp\\index.jsp"
+      },
+      {
+        "name": "Attach to Tomcat",
+        "type": "java",
+        "request": "attach",
+        "host": "localhost",
+        "port": 8080, // Adjust port if needed
+        "mainClass": "org.apache.catalina.startup.Bootstrap"
+      }
+    ]
+  }
+  
